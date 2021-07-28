@@ -1,0 +1,5 @@
+micronaut:
+  application:
+    name: todoHexagPub
+nats.addresses:
+- nats://localhost:4222
